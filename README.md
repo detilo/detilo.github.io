@@ -1,2 +1,2 @@
 # detilo.github.io
-dev blog
+dev blog, under construction
