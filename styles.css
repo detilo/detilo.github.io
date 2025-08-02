@@ -1,3 +1,33 @@
 body {
     background-color: burlywood;
 }
+
+h1, .titleParagraph {
+    text-align: center;
+    font-weight: bold;
+}
+
+.blogParagraph, .blogContent {
+    font-weight: bold;
+}
+
+.blogPost-container {
+    width: 80%;
+    padding: 20px;
+}
+
+.link-container {
+    font-weight: bold;
+}
+
+#homepage-container, #devblog-container {
+    width: 100%;
+    margin: 0 auto;
+    padding-left: 20px;
+}
+
+#footer {
+    text-align: center;
+    position: absolute;
+    bottom: 0;
+}
