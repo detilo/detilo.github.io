@@ -2,16 +2,20 @@ body {
     background-color: burlywood;
 }
 
-h1, .titleParagraph {
+h1, .title-paragraph {
     text-align: center;
     font-weight: bold;
 }
 
-.blogParagraph, .blogContent {
+.index-h2 {
+    padding: 20px;
+}
+
+.post-paragraph, .post-content {
     font-weight: bold;
 }
 
-.blogPost-container {
+.post-container {
     width: 80%;
     padding: 20px;
 }
@@ -20,14 +24,18 @@ h1, .titleParagraph {
     font-weight: bold;
 }
 
+.logo-container {
+    width: 100%;
+    height: 100%;
+}
+
 #homepage-container, #devblog-container {
     width: 100%;
-    margin: 0 auto;
     padding-left: 20px;
 }
 
-#footer {
+.footer {
     text-align: center;
-    position: absolute;
-    bottom: 0;
+    margin: 0 auto;
+    padding-top: 20px;
 }
